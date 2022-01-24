@@ -147,7 +147,7 @@ function mk_tree(text)
                 return
             end
 
-            if (lengt - s) > cplen
+            if (lengt - s) >= cplen
                 s += cplen
                 excep = text[s]
                 extype = '!'

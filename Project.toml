@@ -1,7 +1,7 @@
 name = "Etcetera"
 uuid = "53705a34-f101-4eb8-a899-40c2e606cda9"
 authors = ["René Olsthoorn <39967488+rene-olsthoorn@users.noreply.github.com> and contributors"]
-version = "0.1.0"
+version = "0.1.1"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"

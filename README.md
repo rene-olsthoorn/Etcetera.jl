@@ -1,6 +1,6 @@
 # Etcetera
 
-Etcetera is a package that contains a function to find the longest repeated substrings  in a text. "text" can be a string,tuple or array. It returns a tuple with the length of such a string and a dictionary with these strings as keys. The corresponding value is a list of the occurrences of the key.
+Etcetera is a Julia package that contains a function to find the longest repeated substrings  in a text. "text" can be a string,tuple or array. It returns a tuple with the length of such a string and a dictionary with these strings as keys. The corresponding value is a list of the occurrences of the key.
 
 
 Sometimes there is only one substring that is the longest.
